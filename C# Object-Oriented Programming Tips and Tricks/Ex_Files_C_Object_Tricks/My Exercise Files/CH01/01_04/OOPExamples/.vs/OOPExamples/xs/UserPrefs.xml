@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{6CAECDEA-1F38-412B-B310-3FE746C20AE9}|Default">
+  <MonoDevelop.Ide.ItemProperties.OOPExamples PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Computer.cs">
+    <Files>
+      <File FileName="Computer.cs" Line="15" Column="38" />
+      <File FileName="Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OOPExamples" expanded="True">
+            <Node name="OOPExamples" expanded="True">
+              <Node name="Computer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

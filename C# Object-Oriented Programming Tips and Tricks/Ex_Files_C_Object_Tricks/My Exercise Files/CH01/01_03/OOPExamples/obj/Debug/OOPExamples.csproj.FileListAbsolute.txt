@@ -1,0 +1,13 @@
+C:/Users/Jesse Freeman/Desktop/ExerciseFiles/OOPExamples/bin/Debug/OOPExamples.exe.config
+C:/Users/Jesse Freeman/Desktop/ExerciseFiles/OOPExamples/bin/Debug/OOPExamples.exe
+C:/Users/Jesse Freeman/Desktop/ExerciseFiles/OOPExamples/bin/Debug/OOPExamples.pdb
+C:/Users/Jesse Freeman/Desktop/ExerciseFiles/OOPExamples/obj/Debug/OOPExamples.csprojResolveAssemblyReference.cache
+C:/Users/Jesse Freeman/Desktop/ExerciseFiles/OOPExamples/obj/Debug/OOPExamples.exe
+C:/Users/Jesse Freeman/Desktop/ExerciseFiles/OOPExamples/obj/Debug/OOPExamples.pdb
+/Users/timh1203/li-learning-c#/C# Object-Oriented Programming Tips and Tricks/Ex_Files_C_Object_Tricks/My Exercise Files/CH01/01_03/OOPExamples/obj/Debug/OOPExamples.csprojAssemblyReference.cache
+/Users/timh1203/li-learning-c#/C# Object-Oriented Programming Tips and Tricks/Ex_Files_C_Object_Tricks/My Exercise Files/CH01/01_03/OOPExamples/obj/Debug/OOPExamples.csproj.CoreCompileInputs.cache
+/Users/timh1203/li-learning-c#/C# Object-Oriented Programming Tips and Tricks/Ex_Files_C_Object_Tricks/My Exercise Files/CH01/01_03/OOPExamples/obj/Debug/OOPExamples.exe
+/Users/timh1203/li-learning-c#/C# Object-Oriented Programming Tips and Tricks/Ex_Files_C_Object_Tricks/My Exercise Files/CH01/01_03/OOPExamples/obj/Debug/OOPExamples.pdb
+/Users/timh1203/li-learning-c#/C# Object-Oriented Programming Tips and Tricks/Ex_Files_C_Object_Tricks/My Exercise Files/CH01/01_03/OOPExamples/bin/Debug/OOPExamples.exe.config
+/Users/timh1203/li-learning-c#/C# Object-Oriented Programming Tips and Tricks/Ex_Files_C_Object_Tricks/My Exercise Files/CH01/01_03/OOPExamples/bin/Debug/OOPExamples.exe
+/Users/timh1203/li-learning-c#/C# Object-Oriented Programming Tips and Tricks/Ex_Files_C_Object_Tricks/My Exercise Files/CH01/01_03/OOPExamples/bin/Debug/OOPExamples.pdb
